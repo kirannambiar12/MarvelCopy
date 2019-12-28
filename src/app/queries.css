@@ -1,0 +1,260 @@
+@media only screen and (max-width: 1200px){
+    .main-row, .table-bg-design, .compare-price{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .compare-price{
+        margin-top: 30%;
+    }
+
+    .table{
+        margin-left: 20%;
+    }
+
+    .table-text{
+        margin-right: 10%;
+    }
+}
+
+
+@media only screen and (max-width: 1023px){
+
+    .looking-for-a-lollip {
+        font-size: 30px;
+      }
+
+      .looking-for-a-lollip, .body{
+          width: 300px;
+        margin: 0;
+        padding: 0;
+      }
+
+      .lollipop, .icecandy, .save-with-lollipop{
+          width: 200px;
+      }
+      .rate-block{
+        padding-left: 0;
+        margin-left: 0;
+
+      }
+      .btn{
+          width: 45%;
+      }
+      .head{
+        width: 300px;
+        
+    }
+
+    .globe{
+        height: 400px;
+        padding-left: 20%;
+    }
+    .main-row{
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .head-img{
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .table-bg-design{
+        width: 100%;
+        margin: 5% auto 0% auto;  
+    }
+
+    .table{
+        width: 70%;
+        height: auto;
+         }
+
+         .compare-price{
+             margin-top: 30%;
+         }
+
+         .compare-price button{
+             width: 20%;
+             
+         }
+
+         .rate-block{
+             margin-left: 17%;
+         }
+
+         .customer-text, .customer-Name, .customer-profession{
+             margin-left: 30%;
+         }
+
+         .customer-block{
+             width: 60%;
+             
+             
+         }
+
+         .loved-block{
+             margin: 0;
+             padding: 0;
+         }
+
+         .bag-block{
+             margin-left: 0;
+             padding-left: 0;
+             padding-bottom: 10%;
+         }
+         .bag{
+             height: 250px;
+
+         }
+        .loved-by-users{
+            font-size: 30px;
+        }
+}
+
+@media only screen and (max-width: 767px){
+    .head, .head-img{
+        display: contents;
+    }
+.head-img{
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.globe{
+    
+        margin-left: 0;
+        padding-left: 0;
+    
+}
+    .main-row{
+       margin-left: 40px;
+       padding: 0;
+    }
+
+    .btn{
+        width: 150px;
+    }
+    
+    
+    .table-bg-design{
+        width: 100%;
+        margin-top: 10%;
+        margin-left: 5%;
+    }
+
+    .table{
+        padding: 0;
+        margin: 0px 0px 0px 20px;
+        width: 90%;
+    }
+
+    .table-main{
+        width: 45%;
+        padding-left: 0;
+        margin-left: 0;
+    }
+    .table-main tr td,th{
+        padding: 0;
+        margin: 0;
+    }
+
+    .table-main tr th{
+        padding-left: 15px;
+        padding-top: 10px;
+    }
+    .compare-price{
+        margin-top: 50%;
+    }
+
+    .Serving-btn{
+    padding-left: 30px;
+    padding-right: 70px;
+    }
+
+    .switch-text-left, .switch-text-left-sub{
+        margin-left: 0;
+    }
+
+    .lollipop, .icecandy, .save-with-lollipop{
+       display: grid;
+       box-shadow: 0 2px 5px 0 rgba(113, 100, 100, 0.3);
+    }
+
+    .rate-block{
+        margin-left: 35%;
+    }
+
+    .customer-block{
+        margin: 0;
+        padding: 0px 0px 0px 20px;
+        width: 90%;
+    }
+
+    .item{
+        margin: 0;
+        padding: 0;
+    }
+
+    .loved-block, .bag-block{
+        display: grid;
+    }
+
+        .round-img{
+            
+            max-width: 80px;
+            max-height: 120px;
+          }
+    
+}
+
+@media only screen and (max-width: 480px){
+
+
+    .table-bg-design{
+        width: 100%;
+        margin-top: 10%;
+        padding: 0;
+    }
+.table-lorem tr td{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.table-lorem{
+    margin: 0;
+    padding: 0;
+}
+
+.table-main {
+    position: absolute;    
+}
+
+.compare-price{
+    margin-top: 70%;
+}
+
+.table-main tr th{
+    padding: 0;
+    margin: 0;
+}
+    .table{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+
+    .table-main{
+        width: 45%;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .rate-block{
+        
+        margin-left: 70px;
+    }
+
+    
+}
